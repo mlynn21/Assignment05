@@ -1,0 +1,5 @@
+
+h1 {margin-bottom: 30px;}
+label {font-weight: bold;}
+input, select {margin-bottom: 10px;}
+form {width: 25%; padding: 20px; background-color: lightgrey; border: solid 3px darkgray;}
